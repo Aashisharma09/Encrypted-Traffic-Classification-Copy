@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Dataset files
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Wireshark packet captures
+wireshark_captures/
+
+# Temporary VS Code file
+tempCodeRunnerFile.py
+
+# Files not required in GitHub
+bhoomi.py
+tempCodeRunnerFile.python
